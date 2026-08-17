@@ -1,6 +1,4 @@
-# PBL 01 — Quantificando a Matéria em uma Corrente de Processo
-
-> **José Jorge de Souza Filho**
+# PBL 01 
 
 ---
 
