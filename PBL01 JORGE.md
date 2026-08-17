@@ -12,7 +12,7 @@
 
 ## Massa molar da água
 
-> Nas informações temos que a vazão ocorre por H2O, que tem como estrutura 2 átomos de H e 1 de O. Que com estas informações temos que M= 2\*(1)+ 16 \- \> 18, Logo tendo que 1 mol corresponde a 18g de água(H2O).
+> Nas informações temos que a vazão ocorre de água (H2O), que tem como estrutura 2 átomos de H e 1 de O. Que com estas informações temos que M = 2\*(1)+ 16 -> 18, Logo tendo que 1 mol corresponde a 18g de água(H2O).
 
 ## Conversão da vazão
 
@@ -24,11 +24,11 @@
 
 ## Quantidade de matéria em 8 horas
 
-> Agora multiplicamos o dado conquistado anteriormente e multiplicamos o tempo de vazão. N= 10.000 mol/h \* 8h \-\> 80.000 mol. Com isto podemos afirmar que no dia da operação passaram pela unidade 80.000 mol de água.
+> Agora multiplicamos o dado conquistado anteriormente e multiplicamos o tempo de vazão. N = 10.000 mol/h \ X  8h -> 80.000 mol. Com isto podemos afirmar que no dia da operação passaram pela unidade 80.000 mol de água.
 
 ## Número de moléculas
 
-> Agora para chegarmos a solicitação do supervisor que é a quantidade exata de moléculas, vamos pegar a resposta anterior e multiplicar pela constante de avogadro (6,02214076 × 10^23 mol^-1 ), Fazendo o cálculo N= 80.000 x 6,02214076 × 10^23 mol^-1  \-\> N= 4,8176×10^28 e com isto  chegamos ao número de moléculas, como resposta a solicitação do supervisor.
+> Agora para chegarmos a solicitação do supervisor que é a quantidade exata de moléculas, vamos pegar a resposta anterior e multiplicar pela constante de avogadro (6,02214076 × 10^23 mol^-1 ), Fazendo o cálculo N= 80.000 x 6,02214076 × 10^23 mol^-1 -> N= 4,8176×10^28 e com isto  chegamos ao número de moléculas que passa pela vazão no período de um dia (dentro das 08 horas), como resposta a solicitação do supervisor.
 
 ## Interpretação e lógica utilizada
 
